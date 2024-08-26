@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects related to web development, especially those involving React, TypeScript, and innovative API solutions.
 - 📫 How to reach me yumandhika@gmail.com or via LinkedIn: [Yuma Andhika](https://www.linkedin.com/in/yuma-andhika/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My First Account Got Hacked
 
 <!---
 yumaandhika/yumaandhika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
