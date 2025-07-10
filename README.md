@@ -1,9 +1,7 @@
-<h1 align="center">hey, i'm bo 👋</h1>
-<p align="center">fullstack dev — turning caffeine into software and pixels into experience.</p>
-
-<br/>
-
 ```js
+// hey, i'm bo 👋
+// fullstack dev — turning caffeine into software and pixels into experience.
+
 const bo = {
   role: "Fullstack Developer",
   pronouns: "he/him",
